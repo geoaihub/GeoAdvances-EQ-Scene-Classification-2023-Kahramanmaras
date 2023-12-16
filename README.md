@@ -1,6 +1,6 @@
 <h1 align=center><font size = 6>Deep Learning-Based Scene Classificatıon Of Very High-Resolution Satellite Imagery For Post-Earthquake Damage Assessment</font></h1>
 
-<img  src="https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/geoaihubmersin.png"  height=550  width=1000  alt="https://www.pexels.com/"/>  
+<img  src="https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/geoaihubmersin.png"  height=400  width=1000  alt="https://www.pexels.com/"/>  
 
 <small>Picture Source: <a  href="https://github.com/geoaihub">GeoAI Hub Mersin</a></small>
 
