@@ -1,5 +1,11 @@
 # DEEP LEARNING-BASED SCENE CLASSIFICATION OF VERY HIGH-RESOLUTION SATELLITE IMAGERY FOR POST-EARTHQUAKE DAMAGE ASSESSMENT
 
+<img  src="https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/geoaihubmersin.png"  height=550  width=1000  alt="https://www.pexels.com/"/>  
+
+<small>Picture Source: <a  href="https://github.com/geoaihub">GeoAI Hub Mersin</a></small>
+
+<br>
+
 ## Overview
 
 This repository features a deep learning-based system for classifying scenes in very high-resolution satellite imagery, with a focus on post-earthquake damage assessment. The primary case study involves the devastating earthquakes that occurred in Kahramanmaraş province, Türkiye, in 2023.
