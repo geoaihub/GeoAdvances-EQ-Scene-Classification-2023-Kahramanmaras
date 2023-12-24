@@ -98,7 +98,7 @@ Our MobileNetV2_1 model, purposefully designed for building and non-building sce
 
 The F1 score, a pivotal metric that harmonizes precision and recall, reached an outstanding value of 0.97, signifying the model's ability to effectively manage both true positives and true negatives.
 
-The utilization of the softmax activation function and categorical cross-entropy loss function, along with 32 training epochs, has proven to be a highly effective strategy in refining this MobileNetV2_1 model. These results collectively emphasize the model's significant potential in scene classification tasks, with wide-ranging applications spanning remote sensing, environmental monitoring, and beyond.
+The utilization of the softmax activation function and categorical cross-entropy loss function, along with 32 training epochs, has proven to be a highly effective strategy in refining this MobileNetV2 model. These results collectively emphasize the model's significant potential in scene classification tasks, with wide-ranging applications spanning remote sensing, environmental monitoring, and beyond.
 
 ## Objective
 
