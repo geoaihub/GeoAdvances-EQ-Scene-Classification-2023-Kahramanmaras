@@ -49,3 +49,13 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
     
     # Change directory
     cd GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras
+
+@article{...,
+  author = {...},
+  doi = {...},
+  month = {...},
+  title = {...},
+  url = {...},
+  version = {...},
+  year = {...}
+}
