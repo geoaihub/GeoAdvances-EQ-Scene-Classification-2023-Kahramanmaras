@@ -9,16 +9,15 @@
 
 This research presents an automated approach for detecting and classifying in high-resolution satellite images, particularly in the aftermath of the Hatay earthquake, utilizing Maxar high-resolution satellite imagery. Advanced deep learning models are employed to identify "collapsed" and "non-collapsed" building classes.
 
-
 ### Architectures  
--  **ResNet-50:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_ResNet50.ipynb) -  *Summary:* Good accuracy at 77.50%. 
--  **ResNet-50V2:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_ResNet50V2.ipynb) -  *Summary:* Remarkable accuracy at 90.00%. 
-- **ResNet-101:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_ResNet101.ipynb) -  *Summary:* Relatively good accuracy at 75.00%. 
--  **VGG-16:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_VGG16.ipynb) -  *Summary:* Impressive performance at 87.50%. 
-- **VGG-19:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_VGG19.ipb) -  *Summary:* Good accuracy at 85.83%. 
-- **DenseNet-169:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_DenseNet169.ipb) -  *Summary:* Impressive accuracy at 88.33%.
-- **DenseNet-121:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_DenseNet121.ipb) -  *Summary:* Outstanding accuracy at 93.33%.  
-- **MobileNetV2:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_MobileNetV2.ipb) -  *Summary:* Almost good accuracy at 70.00%.
+-  **ResNet-50:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/ResNet50/collapsed_noncollapsed_ResNet50.ipynb) -  *Summary:* Good accuracy at 77.50%. 
+-  **ResNet-50V2:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/ResNet50V2/collapsed_noncollapsed_ResNet50v2.ipynb) -  *Summary:* Remarkable accuracy at 90.00%. 
+- **ResNet-101:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/ResNet101/collapsed_noncollapsed_ResNet101.ipynb) -  *Summary:* Relatively good accuracy at 75.00%. 
+-  **VGG-16:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/VGG16/collapsed_noncollapsed_VGG16.ipynb) -  *Summary:* Impressive performance at 87.50%. 
+- **VGG-19:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/VGG19/collapsed_noncollapsed_VGG19.ipynb) -  *Summary:* Good accuracy at 85.83%. 
+- **DenseNet-169:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/DenseNet169/collapsed_noncollapsed_DenseNet169.ipynb) -  *Summary:* Impressive accuracy at 88.33%.
+- **DenseNet-121:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/DenseNet121/collapsed_noncollapsed_DenseNet121.ipynb) -  *Summary:* Outstanding accuracy at 93.33%.  
+- **MobileNetV2:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/MobileNetV2/collapsed_noncollapsed_MobileNetV2.ipynb) -  *Summary:* Almost good accuracy at 70.00%.
 
 ## ResNet-50
 
