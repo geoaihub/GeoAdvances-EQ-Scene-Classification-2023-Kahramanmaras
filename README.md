@@ -52,7 +52,7 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
 
 <br>
 
-## Citation:
+## Citation
 
     @article{...,
       author = {...},
