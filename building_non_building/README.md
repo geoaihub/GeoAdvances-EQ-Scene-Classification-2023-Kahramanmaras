@@ -9,7 +9,6 @@
 
 This research presents an automated approach for detecting and classifying in high-resolution satellite images, particularly in the aftermath of the Hatay earthquake, utilizing Maxar high-resolution satellite imagery. Advanced deep learning models are employed to identify "building" and "non-building" building classes.
 
-
 ### Architectures  
 -  **ResNet-50:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/build_nonbuild_ResNet50.ipynb) -  *Summary:* Exceptional accuracy at 93.33%. 
 -  **ResNet-50V2:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/ResNet50V2/build_nonbuild_ResNet50V2.ipynb) -  *Summary:* Remarkable accuracy at 95.83%. 
