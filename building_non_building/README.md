@@ -1,7 +1,7 @@
 
 # Building, Non-Building Classification
 
-![GitHub](https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/Mersin%20GeoAI%20Hub%203.png)
+![GitHub](https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/Mersin%20GeoAI%20Hub%202.png)
 
 *Picture Source: [GeoAI Hub Mersin](https://github.com/geoaihub)*
 
