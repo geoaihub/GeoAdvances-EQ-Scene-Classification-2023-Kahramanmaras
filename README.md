@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository features a deep learning-based system for classifying scenes in very high-resolution satellite imagery, with a focus on post-earthquake damage assessment. The primary case study involves the devastating earthquakes that occurred in Kahramanmaraş province, Türkiye, in 2023.
+This repository features a deep learning-based system for classifying scenes in very high-resolution satellite (VHR) imagery, with a focus on post-earthquake damage assessment. The primary case study involves the devastating earthquakes that occurred in Kahramanmaraş province, Türkiye, in 2023.
 
 <br>
 
