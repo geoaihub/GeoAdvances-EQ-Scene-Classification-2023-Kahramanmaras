@@ -33,14 +33,6 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
 
 <br>
 
-## Why Use This Repository
-
-- Efficient and automated earthquake damage assessment using satellite imagery.
-- Practical approach with scene classification, reducing the need for extensive training data and computational resources.
-- Valuable insights for humanitarian aid efforts and post-earthquake response planning.
-
-<br>
-
 ## Installation
 
     bash
@@ -49,6 +41,16 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
     
     # Change directory
     cd GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras
+
+<br>
+
+## Why Use This Repository
+
+- Efficient and automated earthquake damage assessment using satellite imagery.
+- Practical approach with scene classification, reducing the need for extensive training data and computational resources.
+- Valuable insights for humanitarian aid efforts and post-earthquake response planning.
+
+<br>
 
 ## Citation:
 
