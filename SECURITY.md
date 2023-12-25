@@ -26,8 +26,6 @@ Thank you for your interest in the security of our project. If you believe you h
    - Steps to reproduce the vulnerability.
    - Any supporting materials such as screenshots or proof-of-concept code.
 
-3. **Encryption**: If your report contains sensitive information, please use our [PGP public key](link-to-pgp-key) for secure communication.
-
 ## Response Timeline
 
 We are committed to addressing security vulnerabilities promptly. Once we receive your report, we will follow these general timelines:
