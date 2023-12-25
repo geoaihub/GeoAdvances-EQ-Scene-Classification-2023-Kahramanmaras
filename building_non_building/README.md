@@ -5,6 +5,10 @@
 
 *Picture Source: [GeoAI Hub Mersin](https://github.com/geoaihub)*
 
+## Objective
+
+The objective of this project is to develop a deep learning model for classifying high-resolution satellite images into "building" and "non-building" categories using various advanced architectures. The model aims to achieve high accuracy in identifying structural damage in satellite imagery, particularly in post-earthquake scenarios. Through this project, we aim to demonstrate the effectiveness of deep learning in image classification tasks and its application in real-world disaster response scenarios.
+
 ## Abstract
 
 This research presents an automated approach for detecting and classifying in high-resolution satellite images, particularly in the aftermath of the Hatay earthquake, utilizing Maxar high-resolution satellite imagery. Advanced deep learning models are employed to identify "building" and "non-building" building classes.
@@ -98,7 +102,3 @@ Our MobileNetV2_1 model, purposefully designed for building and non-building sce
 The F1 score, a pivotal metric that harmonizes precision and recall, reached an outstanding value of 0.97, signifying the model's ability to effectively manage both true positives and true negatives.
 
 The utilization of the softmax activation function and categorical cross-entropy loss function, along with 32 training epochs, has proven to be a highly effective strategy in refining this MobileNetV2 model. These results collectively emphasize the model's significant potential in scene classification tasks, with wide-ranging applications spanning remote sensing, environmental monitoring, and beyond.
-
-## Objective
-
-The objective of this project is to develop a deep learning model for classifying high-resolution satellite images into "building" and "non-building" categories using various advanced architectures. The model aims to achieve high accuracy in identifying structural damage in satellite imagery, particularly in post-earthquake scenarios. Through this project, we aim to demonstrate the effectiveness of deep learning in image classification tasks and its application in real-world disaster response scenarios.
