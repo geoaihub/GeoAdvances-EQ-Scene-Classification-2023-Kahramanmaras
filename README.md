@@ -1,4 +1,4 @@
-<h1 align=center><font size = 6>Deep Learning-Based Scene Classificatıon Of VHR Satellite Imagery For Post-Earthquake Damage Assessment</font></h1>
+<h1 align=center><font size = 6>Deep Learning-Based Scene Classification Of VHR Satellite Imagery For Post-Earthquake Damage Assessment</font></h1>
 
 <img  src="https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/Mersin%20GeoAI%20Hub%202.png"  height=400  width=1000  alt="https://github.com/geoaihub"/>  
 
