@@ -16,7 +16,7 @@ currently being supported with security updates.
 
 Thank you for your interest in the security of our project. If you believe you have discovered a security vulnerability in the Deep Learning-Based Scene Classification project for VHR Satellite Imagery, we encourage you to report it to us.
 
-## Reporting Process
+### Reporting Process
 
 1. **Email**: Please send an email to [geoaihub@gmail.com](mailto:geoaihub@gmail.com) with the subject line "Security Vulnerability Report."
 
@@ -26,7 +26,7 @@ Thank you for your interest in the security of our project. If you believe you h
    - Steps to reproduce the vulnerability.
    - Any supporting materials such as screenshots or proof-of-concept code.
 
-## Response Timeline
+### Response Timeline
 
 We are committed to addressing security vulnerabilities promptly. Once we receive your report, we will follow these general timelines:
 
@@ -35,11 +35,11 @@ We are committed to addressing security vulnerabilities promptly. Once we receiv
 - **Resolution**: Once the vulnerability is confirmed, we will work to address it.
 - **Public Disclosure**: We will coordinate with you to establish an appropriate timeline for public disclosure, considering the severity and complexity of the issue.
 
-## Responsible Disclosure
+### Responsible Disclosure
 
 We appreciate your responsible disclosure of security vulnerabilities. Please refrain from sharing the details of the vulnerability publicly until we have had an opportunity to address it.
 
-## Note
+### Note
 
 This project follows a coordinated disclosure model. We believe in working with the security community to protect our users and ensure the confidentiality of sensitive information.
 
