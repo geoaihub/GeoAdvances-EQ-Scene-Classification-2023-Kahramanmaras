@@ -12,7 +12,7 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-# Reporting a Vulnerability
+## Reporting a Vulnerability
 
 Thank you for your interest in the security of our project. If you believe you have discovered a security vulnerability in the Deep Learning-Based Scene Classification project for VHR Satellite Imagery, we encourage you to report it to us.
 
