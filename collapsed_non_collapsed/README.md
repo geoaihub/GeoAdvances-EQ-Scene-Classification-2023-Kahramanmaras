@@ -9,6 +9,10 @@
 
 This research presents an automated approach for detecting and classifying in high-resolution satellite images, particularly in the aftermath of the Hatay earthquake, utilizing Maxar high-resolution satellite imagery. Advanced deep learning models are employed to identify "collapsed" and "non-collapsed" building classes.
 
+## Objective
+
+The objective of this project is to develop a deep learning model for classifying high-resolution satellite images into "collapsed" and "non-collapsed" categories using various advanced architectures. The model aims to achieve high accuracy in identifying structural damage in satellite imagery, particularly in post-earthquake scenarios. Through this project, we aim to demonstrate the effectiveness of deep learning in image classification tasks and its application in real-world disaster response scenarios.
+
 ### Architectures  
 -  **ResNet-50:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/ResNet50/collapsed_noncollapsed_ResNet50.ipynb) -  *Summary:* Good accuracy at 77.50%. 
 -  **ResNet-50V2:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/collapsed_non_collapsed/ResNet50V2/collapsed_noncollapsed_ResNet50v2.ipynb) -  *Summary:* Remarkable accuracy at 90.00%. 
@@ -98,7 +102,3 @@ Our MobileNetV2 model, thoughtfully crafted for classifying collapsed and non-co
 The F1 score, which harmonizes precision and recall, achieved a respectable value of 0.70, signifying the model's ability to effectively manage both true positives and true negatives with a balanced approach.
 
 With the utilization of the softmax activation function and categorical cross-entropy loss function, this MobileNetV2 model showcases its potential in scene classification tasks. Its applications span various domains, including disaster management, urban planning, and infrastructure assessment, where accurate identification of collapsed scenes is of paramount importance.
-
-## Objective
-
-The objective of this project is to develop a deep learning model for classifying high-resolution satellite images into "collapsed" and "non-collapsed" categories using various advanced architectures. The model aims to achieve high accuracy in identifying structural damage in satellite imagery, particularly in post-earthquake scenarios. Through this project, we aim to demonstrate the effectiveness of deep learning in image classification tasks and its application in real-world disaster response scenarios.
