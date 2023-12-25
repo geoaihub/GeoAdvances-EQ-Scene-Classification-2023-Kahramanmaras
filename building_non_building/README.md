@@ -5,13 +5,13 @@
 
 *Picture Source: [GeoAI Hub Mersin](https://github.com/geoaihub)*
 
-## Objective
-
-The objective of this project is to develop a deep learning model for classifying high-resolution satellite images into "building" and "non-building" categories using various advanced architectures. The model aims to achieve high accuracy in identifying structural damage in satellite imagery, particularly in post-earthquake scenarios. Through this project, we aim to demonstrate the effectiveness of deep learning in image classification tasks and its application in real-world disaster response scenarios.
-
 ## Abstract
 
 This research presents an automated approach for detecting and classifying in high-resolution satellite images, particularly in the aftermath of the Hatay earthquake, utilizing Maxar high-resolution satellite imagery. Advanced deep learning models are employed to identify "building" and "non-building" building classes.
+
+## Objective
+
+The objective of this project is to develop a deep learning model for classifying high-resolution satellite images into "building" and "non-building" categories using various advanced architectures. The model aims to achieve high accuracy in identifying structural damage in satellite imagery, particularly in post-earthquake scenarios. Through this project, we aim to demonstrate the effectiveness of deep learning in image classification tasks and its application in real-world disaster response scenarios.
 
 ### Architectures  
 -  **ResNet-50:** [Details](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/blob/main/building_non_building/ResNet50/build_nonbuild_ResNet50.ipynb) -  *Summary:* Exceptional accuracy at 93.33%. 
