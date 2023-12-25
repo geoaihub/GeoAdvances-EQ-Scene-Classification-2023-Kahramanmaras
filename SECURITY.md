@@ -30,7 +30,7 @@ Thank you for your interest in the security of our project. If you believe you h
 
 We are committed to addressing security vulnerabilities promptly. Once we receive your report, we will follow these general timelines:
 
-- **Acknowledgment**: We will acknowledge receipt of your report within [X business days].
+- **Acknowledgment**: We will acknowledge receipt of your report within 14 business days.
 - **Investigation**: Our team will investigate and validate the reported vulnerability.
 - **Resolution**: Once the vulnerability is confirmed, we will work to address it.
 - **Public Disclosure**: We will coordinate with you to establish an appropriate timeline for public disclosure, considering the severity and complexity of the issue.
