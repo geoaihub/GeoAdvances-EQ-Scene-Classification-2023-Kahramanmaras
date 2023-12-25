@@ -26,8 +26,8 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
 
 - Utilizes Maxar's very high-resolution post-earthquake satellite imagery.
 - Two-stage scene classification:
-  - **Classifier #1:** Detects building presence.
-  - **Classifier #2:** Categorizes scenes into collapsed and non-collapsed buildings.
+  - **[Classifier #1](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/tree/main/building_non_building):** Detects building presence.
+  - **[Classifier #2](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras/tree/main/collapsed_non_collapsed):** Categorizes scenes into collapsed and non-collapsed buildings.
 - Deep learning models, including ResNet-101 and DenseNet-121, are employed for accurate and efficient classification.
 - Results from Antakya and Iskenderun city centers with detailed accuracy metrics.
 
