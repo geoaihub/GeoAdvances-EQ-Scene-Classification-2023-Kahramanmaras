@@ -1,17 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
 ## Reporting a Vulnerability
 
 Thank you for your interest in the security of our project. If you believe you have discovered a security vulnerability in the Deep Learning-Based Scene Classification project for VHR Satellite Imagery, we encourage you to report it to us.
@@ -46,4 +34,3 @@ This project follows a coordinated disclosure model. We believe in working with 
 Thank you for helping us keep our project secure!
 
 ---
-**Note:** This is a template, and you may need to customize it based on your specific reporting process and timeline.
