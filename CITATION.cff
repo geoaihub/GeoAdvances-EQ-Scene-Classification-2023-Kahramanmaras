@@ -1,16 +1,16 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "Deep Learning-Based Scene Classification of Very High-Resolution Satellite Imagery for Post-Earthquake Damage Assessment: A Case Study of The 2023 Kahramanmaraş Earthquakes"
-authors:
-  - family-names: "İlmak"
-    given-names: "Doğu"
-  - family-names: "Iban"
-    given-names: "Muzaffer"
-  - family-names: "Seker"
-    given-names: "Dursun"
-type: conference-paper
-year: 2024
-month: 01
-version: XLVIII-4/W9-2024
-doi: 10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024
-url: "https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "İlmak"
+      given-names: "Doğu"
+    - family-names: "Iban"
+      given-names: "Muzaffer"
+    - family-names: "Seker"
+      given-names: "Dursun"
+  doi: 10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024
+  journal: "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+  month: 01
+  title: "Deep Learning-Based Scene Classification of Very High-Resolution Satellite Imagery for Post-Earthquake Damage Assessment: A Case Study of The 2023 Kahramanmaraş Earthquakes"
+  issue: 4
+  volume: XLVIII-4/W9-2024
+  year: 2024
