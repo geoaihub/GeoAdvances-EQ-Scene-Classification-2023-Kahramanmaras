@@ -54,6 +54,8 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
 
 ## Citation
 
+**BibTeX:**
+
 	@inproceedings{inproceedings,
 	     author = {İlmak, Doğu and Iban, Muzaffer and Seker, Dursun},
 	     year = {2024},
@@ -66,5 +68,7 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
 	}
 
 <br>
+
+**Plain Text:**
 
 İlmak, Doğu & Iban, Muzaffer & Seker, Dursun. (2024). Deep Learning-Based Scene Classification of Very High-Resolution Satellite Imagery for Post-Earthquake Damage Assessment: A Case Study of The 2023 Kahramanmaraş Earthquakes. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences. XLVIII-4/W9-2024. 10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024.
