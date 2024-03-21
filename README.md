@@ -54,13 +54,13 @@ In this work, we developed a fully automated system utilizing Maxar’s very hig
 
 ## Citation
 
-   @inproceedings{inproceedings,
-		     author = {İlmak, Doğu and Iban, Muzaffer and Seker, Dursun},
-		     year = {2024},
-		     month = {01},
-		     pages = {},
-		     title = {Deep Learning-Based Scene Classification of Very High-Resolution Satellite Imagery for Post-Earthquake Damage Assessment: A Case Study of The 2023 Kahramanmaraş Earthquakes},
-		     volume = {XLVIII-4/W9-2024},
-		     journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-		     doi = {10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024}
-	   }
+	@inproceedings{inproceedings,
+	     author = {İlmak, Doğu and Iban, Muzaffer and Seker, Dursun},
+	     year = {2024},
+	     month = {01},
+	     pages = {},
+	     title = {Deep Learning-Based Scene Classification of Very High-Resolution Satellite Imagery for Post-Earthquake Damage Assessment: A Case Study of The 2023 Kahramanmaraş Earthquakes},
+	     volume = {XLVIII-4/W9-2024},
+	     journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+	     doi = {10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024}
+	}
